@@ -1,0 +1,22 @@
+C:\Users\Administrator\source\repos\Asm2\Asm2\bin\Debug\Asm2.exe.config
+C:\Users\Administrator\source\repos\Asm2\Asm2\bin\Debug\Asm2.exe
+C:\Users\Administrator\source\repos\Asm2\Asm2\bin\Debug\Asm2.pdb
+C:\Users\Administrator\source\repos\Asm2\Asm2\obj\Debug\Asm2.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\Asm2\Asm2\obj\Debug\Asm2.Properties.Resources.resources
+C:\Users\Administrator\source\repos\Asm2\Asm2\obj\Debug\Asm2.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\Asm2\Asm2\obj\Debug\Asm2.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\Asm2\Asm2\obj\Debug\Asm2.exe
+C:\Users\Administrator\source\repos\Asm2\Asm2\obj\Debug\Asm2.pdb
+C:\Users\Administrator\source\repos\Asm2\Asm2\obj\Debug\Asm2.About.resources
+C:\Users\Administrator\source\repos\Asm2\Asm2\obj\Debug\Asm2.aboutdesign.resources
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\bin\Debug\Asm2.exe.config
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\bin\Debug\Asm2.exe
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\bin\Debug\Asm2.pdb
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\obj\Debug\Asm2.csproj.AssemblyReference.cache
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\obj\Debug\Asm2.aboutdesign.resources
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\obj\Debug\Asm2.About.resources
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\obj\Debug\Asm2.Properties.Resources.resources
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\obj\Debug\Asm2.csproj.GenerateResource.cache
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\obj\Debug\Asm2.csproj.CoreCompileInputs.cache
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\obj\Debug\Asm2.exe
+C:\Users\Le Van Tien\OneDrive\Máy tính\Asm2\Asm2\obj\Debug\Asm2.pdb
